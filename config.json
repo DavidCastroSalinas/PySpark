@@ -1,0 +1,4 @@
+{
+  "archivoReferencia": "Genoma_referencia.fasta",
+  "archivoSecuencia": "Secuenciacion1_correctedLongReads.fasta",
+  "particiones": 100}
